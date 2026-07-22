@@ -2,13 +2,16 @@
 
 This README is the central index for OctoAcme project management process documentation. It provides a quick overview of how projects are run and links to each detailed process guide.
 
-## Project Management Process Overview
+## Project Management Process Summary
 
-OctoAcme uses a structured, iterative project lifecycle to deliver cross-functional initiatives consistently. Work begins in **Initiation**, where teams validate business need, define measurable outcomes, align stakeholders, and confirm readiness to proceed. During **Planning**, teams translate approved goals into a prioritized and estimated backlog, define acceptance criteria and Definition of Done, and map milestones, dependencies, and release expectations.
+OctoAcme follows a structured, iterative project lifecycle:
 
-In **Execution & Tracking**, delivery teams operate with regular standups, weekly syncs, and sprint or milestone demos while using board-based workflows and pull request standards to maintain flow and transparency. Quality is built in through CI checks, testing expectations, and clear review practices. In parallel, **Risk & Communication Management** ensures teams maintain a risk register, monitor mitigation plans, communicate status regularly, and escalate blockers through defined paths.
-
-For **Release & Deployment**, OctoAcme emphasizes readiness checks, staged validation, stakeholder communication, and rollback planning to reduce production risk. Finally, **Retrospective & Continuous Improvement** closes the loop by capturing lessons learned after sprints, releases, and incidents, then turning those insights into owned, trackable action items that improve future execution.
+- **Initiation**: Validate business need, define goals and success metrics, align stakeholders, and confirm go/no-go for planning.
+- **Planning**: Break work into deliverable increments, prioritize backlog, estimate effort, define Definition of Done, and map milestones/dependencies.
+- **Execution & Tracking**: Run team rhythms (standups/syncs), deliver via PR and CI workflows, track quality and progress metrics, and escalate blockers when needed.
+- **Risk & Communication Management**: Maintain a risk register, monitor mitigation actions, and provide regular stakeholder communication with clear escalation paths.
+- **Release & Deployment**: Apply release readiness checks, execute deployment checklists, verify post-release outcomes, and prepare rollback plans.
+- **Retrospective & Continuous Improvement**: Capture lessons learned after sprints/releases/incidents and convert them into prioritized, trackable action items.
 
 ## Documentation Index
 
